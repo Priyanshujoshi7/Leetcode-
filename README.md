@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
