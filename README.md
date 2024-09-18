@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,4 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
