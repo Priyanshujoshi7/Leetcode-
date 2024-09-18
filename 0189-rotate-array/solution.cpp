@@ -1,11 +1,17 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        vector<int> temp(nums.size());
-        for(int i=0;i<nums.size();i++){
-            temp[(i+k)%nums.size()] = nums[i];
-        }
-        nums=temp;
+        int n = nums.size();
+        k = k % n; // Ensure k is within the range [0, n)
+
+        // Reverse the entire array
+        reverse(nums.begin(), nums.end());
+        
+        // Reverse the first k elements
+        reverse(nums.begin(), nums.begin() + k);
+        
+        // Reverse the rest of the elements after k
+        reverse(nums.begin() + k, nums.end());
         
     }
 };
