@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
