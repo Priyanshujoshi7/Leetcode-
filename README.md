@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
