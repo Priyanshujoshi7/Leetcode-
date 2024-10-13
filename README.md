@@ -171,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1078-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
