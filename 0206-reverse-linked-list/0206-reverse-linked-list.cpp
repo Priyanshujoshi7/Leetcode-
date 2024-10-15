@@ -14,17 +14,14 @@ public:
         ListNode* prev = nullptr;
         ListNode* current = head;
         ListNode* temp;
-        if(head && head->next){
-            while(current){
+        while(current){
                 temp = current->next;
                 current->next = prev;
                 prev = current;
                 current = temp;
             }
             return prev;      
-        } else{
-            return head;
-        }        
+       
         
         
     }
