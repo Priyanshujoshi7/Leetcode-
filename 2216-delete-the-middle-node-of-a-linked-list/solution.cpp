@@ -6,12 +6,14 @@ public:
             return NULL;
         }
         ListNode* slow = head;
-        ListNode* fast = head->next;
-        while(fast!= NULL && fast->next!= NULL && fast->next->next!= NULL){
+        ListNode* fast = head;
+        ListNode* prev = NULL;
+        while(fast!= NULL && fast->next!= NULL ){
+            prev = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
-        slow->next = slow->next->next;
+        prev->next = slow->next;
         return head;
    
     }
