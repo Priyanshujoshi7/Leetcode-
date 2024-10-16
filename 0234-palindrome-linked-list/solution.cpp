@@ -1,11 +1,11 @@
 
-// struct Node {
-//     int val;
-//     Node *next;
-//     Node() : val(0), next(nullptr) {}
-//     Node(int x) : val(x), next(nullptr) {}
-//     Node(int x, Node *next) : val(x), next(next) {}
-// };
+struct Node {
+    int val;
+    Node *next;
+    Node() : val(0), next(nullptr) {}
+    Node(int x) : val(x), next(nullptr) {}
+    Node(int x, Node *next) : val(x), next(next) {}
+};
 
 class Solution {
 public:
@@ -14,34 +14,20 @@ public:
         {
             return head;
         }
-        ListNode* slow =head;
-        ListNode* fast = head;
-        
-        //making slow reach middle element
-        while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
+        stack<int> st;
+        ListNode* temp =head;
+        //pushing into the stack
+        while(temp!= NULL){
+            st.push(temp->val);
+            temp = temp->next;
         }
-        //reversing second part
-        ListNode* current = slow;
-        ListNode* prev = nullptr;
-        ListNode* temp;
-        while(current!= nullptr){
-            temp = current->next;
-            current->next= prev;
-            prev= current;
-            current = temp;
+        temp = head;
+        //comparing
+        while(temp!= NULL){
+            if(temp->val != st.top()) return false;
+            temp = temp->next;
+            st.pop();
         }
-        //checking palindrome
-        ListNode* first = head;
-        ListNode* second = prev;
-        while(second != nullptr){
-            if(first->val != second->val){
-                return false;
-            }
-            first = first->next;
-            second = second->next;
-        }
-        return true;  
+        return true;
     }
 };
