@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0503-next-greater-element-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
