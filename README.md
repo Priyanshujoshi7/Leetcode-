@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
