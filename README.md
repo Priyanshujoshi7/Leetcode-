@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
 |  |
