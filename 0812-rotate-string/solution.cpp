@@ -10,7 +10,7 @@ public:
         string concatenated = s + s;
 
         // Check if `goal` is a substring of `concatenated`
-        return concatenated.find(goal) != -1;
+        return concatenated.find(goal) != string::npos;
     }
 };
 
