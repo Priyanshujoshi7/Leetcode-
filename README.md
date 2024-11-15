@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
