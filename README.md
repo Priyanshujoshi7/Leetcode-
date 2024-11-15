@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
