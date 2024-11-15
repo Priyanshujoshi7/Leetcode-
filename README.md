@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0812-rotate-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1894-merge-strings-alternately) |
@@ -352,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
