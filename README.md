@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
