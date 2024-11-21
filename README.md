@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -373,5 +376,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0812-rotate-string) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
