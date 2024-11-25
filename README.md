@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0792-binary-search) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Sorting
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
