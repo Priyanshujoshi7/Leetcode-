@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0966-binary-subarrays-with-sum) |
