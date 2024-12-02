@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
