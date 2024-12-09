@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1078-remove-outermost-parentheses) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1078-remove-outermost-parentheses) |
