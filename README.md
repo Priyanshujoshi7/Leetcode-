@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0055-jump-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0204-count-primes) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
