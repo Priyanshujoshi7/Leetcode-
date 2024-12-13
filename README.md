@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0055-jump-game) |
@@ -478,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
