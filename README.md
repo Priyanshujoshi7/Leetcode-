@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0075-sort-colors) |
@@ -149,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2470-removing-stars-from-a-string) |
 ## Enumeration
