@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0907-koko-eating-bananas) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
