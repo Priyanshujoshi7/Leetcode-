@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0371-sum-of-two-integers) |
+| [2509-minimize-xor](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2032-largest-odd-number-in-string) |
+| [2509-minimize-xor](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2509-minimize-xor) |
 ## Sliding Window
 |  |
 | ------- |
