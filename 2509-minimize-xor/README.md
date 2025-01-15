@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimize-xor">2509. Minimize XOR</a></h2><h3>Medium</h3><hr><p>Given two positive integers <code>num1</code> and <code>num2</code>, find the positive integer <code>x</code> such that:</p>
+<p>Given two positive integers <code>num1</code> and <code>num2</code>, find the positive integer <code>x</code> such that:</p>
 
 <ul>
 	<li><code>x</code> has the same number of set bits as <code>num2</code>, and</li>
