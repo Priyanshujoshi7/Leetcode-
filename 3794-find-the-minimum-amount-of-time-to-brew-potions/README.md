@@ -16,7 +16,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<table style="border: 1px solid black;">
+<table style="border: 1px solid black; text-align: center;">
 	<tbody>
 		<tr>
 			<th style="border: 1px solid black;">Potion Number</th>
