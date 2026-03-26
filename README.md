@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/2470-removing-stars-from-a-string) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Priyanshujoshi7/Leetcode-/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
 | ------- |
