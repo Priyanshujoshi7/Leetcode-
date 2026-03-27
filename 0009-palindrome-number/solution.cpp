@@ -1,20 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x<0){
+        int res = 0;
+        int dup = x;
+         if (x < 0) {
             return false;
         }
-        long long reverse= 0;
-        long long temp = x;
-        while(temp!=0){
-            int digit=temp%10;
-            reverse=(reverse*10)+digit;
-            temp=temp/10;
+        while(x>0){
+            int temp = x%10;
+            if (res > INT_MAX / 10) return false;
+            res = res*10 + temp;
+            x = x/10;
         }
-        return (reverse== x);
-    
-        
-
+        return dup == res;
         
     }
 };
