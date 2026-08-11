@@ -17,3 +17,5 @@ jobs:
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           verbose: true
+          sync-from: "2020-01-01"
+          filter-duplicate-secs: "0"
