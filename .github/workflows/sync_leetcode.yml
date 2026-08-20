@@ -3,7 +3,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 8 * * 6"
-
 jobs:
   sync:
     runs-on: ubuntu-latest
